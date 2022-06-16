@@ -23,7 +23,7 @@ The user guide to open the file is as follows:
 2.Open the Eclipse.
 3.Go to Perspective => Git Repositories and click on Add Git Repo.
 4.Then Git Repo window will open. In that click on clone a repository.
-5.In the next window paste "" in the URI field ==> Next ==> Next ==> Finish.
+5.In the next window paste "https://github.com/Pruthvi3375/ThinkBridge-Interview-Test.git" in the URI field ==> Next ==> Next ==> Finish.
 6.Now the project will get imported automatically to your Eclipse.
 7.Right click anywhere on the screen select Run As ==> TestNG Test.
 
